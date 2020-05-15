@@ -206,10 +206,6 @@ static void ArmoredSwordsmanVsHighlander()
     cout << endl;
 }
 
-
-
-
- */
 static void ViciousSwordsmanVsVeteranHighlander()
 {
 	Swordsman swordsman("Vicious");
